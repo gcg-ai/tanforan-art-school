@@ -1,0 +1,46 @@
+{
+  "ta_url": "http://timestamp.digicert.com",
+  "claim_generator": "Starling Lab / EE292J — Tanforan Art School",
+  "assertions": [
+    {
+      "label": "c2pa.actions",
+      "data": {
+        "actions": [
+          {
+            "action": "c2pa.published"
+          }
+        ]
+      }
+    },
+    {
+      "label": "stds.schema-org.CreativeWork",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "CreativeWork",
+        "author": [
+          "Hisako Hibi"
+        ],
+        "name": "hibi_horse_stables.jpg",
+        "description": "Depicts converted horse stables used as housing at Tanforan, painted by incarceree Hisako Hibi.",
+        "dateCreated": "1942",
+        "contentLocation": "Tanforan Assembly Center, San Bruno, CA"
+      }
+    },
+    {
+      "label": "org.starlinglab.integrity",
+      "data": {
+        "cid": "bafkreibst2fu6e5ceuii5rmwz7pvz4g4t6whmn57xfbjzrsxc7cxcm2mzu",
+        "sha256": "329e8b4f13a225108ec596cfdf5cf0dc9fac7637bfb9429cc65717c571334ccd",
+        "cidVersion": 1,
+        "codec": "raw",
+        "multihash": "sha2-256",
+        "source": "Japanese American National Museum, Hisako Hibi Collection",
+        "sourceUrl": "https://janm.emuseum.com/objects/17530/a-few-renovated-horse-stables",
+        "provenanceGrade": "ground-truth"
+      }
+    }
+  ],
+  "credentials": [
+    "2026-06-01"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "ta_url": "http://timestamp.digicert.com",
+  "claim_generator": "Starling Lab / EE292J — Tanforan Art School",
+  "assertions": [
+    {
+      "label": "c2pa.actions",
+      "data": {
+        "actions": [
+          {
+            "action": "c2pa.published"
+          }
+        ]
+      }
+    },
+    {
+      "label": "stds.schema-org.CreativeWork",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "CreativeWork",
+        "author": [
+          "Dorothea Lange"
+        ],
+        "name": "lange_still_life_class.jpg",
+        "description": "WRA photograph by Dorothea Lange documenting a student painting a watercolor still life at the Tanforan Art School, June 16, 1942.",
+        "dateCreated": "1942-06-16",
+        "contentLocation": "Tanforan Assembly Center, San Bruno, CA"
+      }
+    },
+    {
+      "label": "org.starlinglab.integrity",
+      "data": {
+        "cid": "bafkreig7jsy2i4oxvlrzou62i4wq7qm2s36hltxz2bscdvpnxncokniqxi",
+        "sha256": "df4cb1a471d7aae39753da472d0fc19a96fc75cef9d06421d5edbb44e53510ba",
+        "cidVersion": 1,
+        "codec": "raw",
+        "multihash": "sha2-256",
+        "source": "National Archives, WRA Central Photographic File, 210-G-C645 / NARA 537945",
+        "sourceUrl": "https://calisphere.org/item/ark:/13030/ft129003pm/",
+        "provenanceGrade": "ground-truth"
+      }
+    }
+  ],
+  "credentials": [
+    "2026-06-01"
+  ]
+}

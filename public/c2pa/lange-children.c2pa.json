@@ -1,0 +1,46 @@
+{
+  "ta_url": "http://timestamp.digicert.com",
+  "claim_generator": "Starling Lab / EE292J — Tanforan Art School",
+  "assertions": [
+    {
+      "label": "c2pa.actions",
+      "data": {
+        "actions": [
+          {
+            "action": "c2pa.published"
+          }
+        ]
+      }
+    },
+    {
+      "label": "stds.schema-org.CreativeWork",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "CreativeWork",
+        "author": [
+          "Dorothea Lange"
+        ],
+        "name": "lange_children_after_hours.jpg",
+        "description": "WRA photograph by Dorothea Lange documenting evacuee children continuing their art work after hours at the Tanforan Art School, June 16, 1942.",
+        "dateCreated": "1942-06-16",
+        "contentLocation": "Tanforan Assembly Center, San Bruno, CA"
+      }
+    },
+    {
+      "label": "org.starlinglab.integrity",
+      "data": {
+        "cid": "bafkreieuctgtnwfkile6movtv62sxgtbsbjbkc5abefm6h7334pu4br564",
+        "sha256": "9414cd36d8aa42c9e63ab3afb52b9a619052150ba0090acf1ffbdf1f4e063df7",
+        "cidVersion": 1,
+        "codec": "raw",
+        "multihash": "sha2-256",
+        "source": "National Archives, WRA Central Photographic File, 210-G-C647",
+        "sourceUrl": "https://calisphere.org/item/ark:/13030/ft058002s1/",
+        "provenanceGrade": "ground-truth"
+      }
+    }
+  ],
+  "credentials": [
+    "2026-06-01"
+  ]
+}

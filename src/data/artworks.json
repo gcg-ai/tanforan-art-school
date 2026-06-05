@@ -1,0 +1,442 @@
+[
+  {
+    "id": "hibi-assembly-center",
+    "title": "Tanforan Assembly Center",
+    "artist": "Hisako Hibi",
+    "date": "1942",
+    "medium": "Oil on canvas",
+    "source": "Japanese American National Museum, Hisako Hibi Collection",
+    "sourceUrl": "https://janm.emuseum.com/objects/62481/tanforan-assembly-center",
+    "permaUrl": null,
+    "ipfsCid": "bafkreifocmhri5urxkg24ihz64qg7kkdn324eoxkxkxs62acbyyaxfpwbq",
+    "attestation": {
+      "claim": "Depicts a panoramic view of the Tanforan Assembly Center painted by incarceree Hisako Hibi during her confinement in 1942.",
+      "curator": "Stanford EE292J Tanforan Team",
+      "date": "2026-06-01",
+      "signature": null
+    },
+    "provenanceGrade": "ground-truth",
+    "imagePath": "/artworks/hibi_assembly_center.jpg",
+    "width": 2.5,
+    "height": 1.8,
+    "wall": "left",
+    "position": [
+      -9.7,
+      5.5,
+      12
+    ],
+    "rotation": [
+      0,
+      1.5708,
+      0
+    ],
+    "glbPosition": [
+      -1.0692,
+      1.8447,
+      -4.4234
+    ],
+    "glbQuaternion": [
+      0,
+      0.70711,
+      0,
+      0.70711
+    ],
+    "glbScale": 1,
+    "sha256": "ae130f147691ba8dae20f9f7206fa9436ef5c23aeabaaf2f68020e300b95f60c",
+    "c2paManifest": "/c2pa/hibi-assembly-center.c2pa.json",
+    "registration": {
+      "status": "pending",
+      "chains": [
+        "numbers",
+        "cardano"
+      ],
+      "txUrl": null,
+      "command": "starling file register --include media_type,author --on numbers bafkreifocmhri5urxkg24ihz64qg7kkdn324eoxkxkxs62acbyyaxfpwbq"
+    }
+  },
+  {
+    "id": "hibi-horse-stables",
+    "title": "A Few Renovated Horse Stables",
+    "artist": "Hisako Hibi",
+    "date": "1942",
+    "medium": "Oil on canvas",
+    "source": "Japanese American National Museum, Hisako Hibi Collection",
+    "sourceUrl": "https://janm.emuseum.com/objects/17530/a-few-renovated-horse-stables",
+    "permaUrl": null,
+    "ipfsCid": "bafkreibst2fu6e5ceuii5rmwz7pvz4g4t6whmn57xfbjzrsxc7cxcm2mzu",
+    "attestation": {
+      "claim": "Depicts converted horse stables used as housing at Tanforan, painted by incarceree Hisako Hibi.",
+      "curator": "Stanford EE292J Tanforan Team",
+      "date": "2026-06-01",
+      "signature": null
+    },
+    "provenanceGrade": "ground-truth",
+    "imagePath": "/artworks/hibi_horse_stables.jpg",
+    "width": 2.5,
+    "height": 1.8,
+    "wall": "right",
+    "position": [
+      9.7,
+      5.5,
+      12
+    ],
+    "rotation": [
+      0,
+      -1.5708,
+      0
+    ],
+    "glbPosition": [
+      5.8032,
+      1.8447,
+      -4.4234
+    ],
+    "glbQuaternion": [
+      0,
+      -0.70711,
+      0,
+      0.70711
+    ],
+    "glbScale": 1,
+    "sha256": "329e8b4f13a225108ec596cfdf5cf0dc9fac7637bfb9429cc65717c571334ccd",
+    "c2paManifest": "/c2pa/hibi-horse-stables.c2pa.json",
+    "registration": {
+      "status": "pending",
+      "chains": [
+        "numbers",
+        "cardano"
+      ],
+      "txUrl": null,
+      "command": "starling file register --include media_type,author --on numbers bafkreibst2fu6e5ceuii5rmwz7pvz4g4t6whmn57xfbjzrsxc7cxcm2mzu"
+    }
+  },
+  {
+    "id": "iyeki-mess-hall-7",
+    "title": "Mess Hall #7",
+    "artist": "Kenneth Nobuji Iyeki",
+    "date": "1942–1943",
+    "medium": "Pencil on paper",
+    "source": "Densho Digital Repository, Kenneth Nobuji Iyeki Collection (ddr-densho-392)",
+    "sourceUrl": "https://ddr.densho.org/ddr-densho-392-32/",
+    "permaUrl": null,
+    "ipfsCid": "bafkreid4vioxga27sruii7h7tkbk3inosoj2ez32coopn247sgfvf4r2mi",
+    "attestation": {
+      "claim": "Pencil sketch of Tanforan Mess Hall #7 drawn by incarceree Kenneth Nobuji Iyeki.",
+      "curator": "Stanford EE292J Tanforan Team",
+      "date": "2026-06-01",
+      "signature": null
+    },
+    "provenanceGrade": "ground-truth",
+    "imagePath": "/artworks/iyeki_mess_hall_7.jpg",
+    "width": 2,
+    "height": 1.4,
+    "wall": "left",
+    "position": [
+      -9.7,
+      5.5,
+      24
+    ],
+    "rotation": [
+      0,
+      1.5708,
+      0
+    ],
+    "glbPosition": [
+      -2.6451,
+      1.8447,
+      -1.0234
+    ],
+    "glbQuaternion": [
+      0,
+      0.70711,
+      0,
+      0.70711
+    ],
+    "glbScale": 1,
+    "sha256": "7caa1d73035f9468847cff9a82ada1ae9393a2677a139cf6eb9f918b52f23a62",
+    "c2paManifest": "/c2pa/iyeki-mess-hall-7.c2pa.json",
+    "registration": {
+      "status": "pending",
+      "chains": [
+        "numbers",
+        "cardano"
+      ],
+      "txUrl": null,
+      "command": "starling file register --include media_type,author --on numbers bafkreid4vioxga27sruii7h7tkbk3inosoj2ez32coopn247sgfvf4r2mi"
+    }
+  },
+  {
+    "id": "iyeki-mess-hall-9",
+    "title": "Mess Hall #9",
+    "artist": "Kenneth Nobuji Iyeki",
+    "date": "1942–1943",
+    "medium": "Pencil on paper",
+    "source": "Densho Digital Repository, Kenneth Nobuji Iyeki Collection (ddr-densho-392)",
+    "sourceUrl": "https://ddr.densho.org/ddr-densho-392-43/",
+    "permaUrl": null,
+    "ipfsCid": "bafkreihktzbsw3mtxx5xmiaomclht6p6qokig57xmqj7e43qlxzcthuvgq",
+    "attestation": {
+      "claim": "Pencil sketch of Tanforan Mess Hall #9 drawn by incarceree Kenneth Nobuji Iyeki.",
+      "curator": "Stanford EE292J Tanforan Team",
+      "date": "2026-06-01",
+      "signature": null
+    },
+    "provenanceGrade": "ground-truth",
+    "imagePath": "/artworks/iyeki_mess_hall_9.jpg",
+    "width": 2,
+    "height": 1.4,
+    "wall": "right",
+    "position": [
+      9.7,
+      5.5,
+      24
+    ],
+    "rotation": [
+      0,
+      -1.5708,
+      0
+    ],
+    "glbPosition": [
+      3.941,
+      1.8447,
+      -1.0234
+    ],
+    "glbQuaternion": [
+      0,
+      -0.70711,
+      0,
+      0.70711
+    ],
+    "glbScale": 1,
+    "sha256": "ea9e432b6d93bdfb76200e609679f9fe83948377f76413f273705df2299e9534",
+    "c2paManifest": "/c2pa/iyeki-mess-hall-9.c2pa.json",
+    "registration": {
+      "status": "pending",
+      "chains": [
+        "numbers",
+        "cardano"
+      ],
+      "txUrl": null,
+      "command": "starling file register --include media_type,author --on numbers bafkreihktzbsw3mtxx5xmiaomclht6p6qokig57xmqj7e43qlxzcthuvgq"
+    }
+  },
+  {
+    "id": "lange-still-life",
+    "title": "Still Life Class at Tanforan Art School",
+    "artist": "Dorothea Lange",
+    "date": "1942-06-16",
+    "medium": "Photograph (gelatin silver print)",
+    "source": "National Archives, WRA Central Photographic File, 210-G-C645 / NARA 537945",
+    "sourceUrl": "https://calisphere.org/item/ark:/13030/ft129003pm/",
+    "permaUrl": null,
+    "ipfsCid": "bafkreig7jsy2i4oxvlrzou62i4wq7qm2s36hltxz2bscdvpnxncokniqxi",
+    "attestation": {
+      "claim": "WRA photograph by Dorothea Lange documenting a student painting a watercolor still life at the Tanforan Art School, June 16, 1942.",
+      "curator": "Stanford EE292J Tanforan Team",
+      "date": "2026-06-01",
+      "signature": null
+    },
+    "provenanceGrade": "ground-truth",
+    "imagePath": "/artworks/lange_still_life_class.jpg",
+    "width": 2,
+    "height": 1.6,
+    "wall": "left",
+    "position": [
+      -9.7,
+      5.5,
+      36
+    ],
+    "rotation": [
+      0,
+      1.5708,
+      0
+    ],
+    "glbPosition": [
+      -4.3093,
+      1.8447,
+      2.3766
+    ],
+    "glbQuaternion": [
+      0,
+      0.70711,
+      0,
+      0.70711
+    ],
+    "glbScale": 1,
+    "sha256": "df4cb1a471d7aae39753da472d0fc19a96fc75cef9d06421d5edbb44e53510ba",
+    "c2paManifest": "/c2pa/lange-still-life.c2pa.json",
+    "registration": {
+      "status": "pending",
+      "chains": [
+        "numbers",
+        "cardano"
+      ],
+      "txUrl": null,
+      "command": "starling file register --include media_type,author --on numbers bafkreig7jsy2i4oxvlrzou62i4wq7qm2s36hltxz2bscdvpnxncokniqxi"
+    }
+  },
+  {
+    "id": "lange-morning-class",
+    "title": "Morning Class, Freehand Brush Strokes",
+    "artist": "Dorothea Lange",
+    "date": "1942-06-16",
+    "medium": "Photograph (gelatin silver print)",
+    "source": "National Archives, WRA Central Photographic File, 210-G-C646",
+    "sourceUrl": "https://calisphere.org/item/ark:/13030/ft7w1007tq/",
+    "permaUrl": null,
+    "ipfsCid": "bafkreiewmvhvewlrurpgxv3ge2f33hwtw7jx2yc3szjg5bqmgjbi6sayve",
+    "attestation": {
+      "claim": "WRA photograph by Dorothea Lange documenting the morning freehand brush class at the Tanforan Art School, June 16, 1942.",
+      "curator": "Stanford EE292J Tanforan Team",
+      "date": "2026-06-01",
+      "signature": null
+    },
+    "provenanceGrade": "ground-truth",
+    "imagePath": "/artworks/lange_morning_class.jpg",
+    "width": 2,
+    "height": 1.6,
+    "wall": "right",
+    "position": [
+      9.7,
+      5.5,
+      36
+    ],
+    "rotation": [
+      0,
+      -1.5708,
+      0
+    ],
+    "glbPosition": [
+      2.4262,
+      1.8447,
+      2.3766
+    ],
+    "glbQuaternion": [
+      0,
+      -0.70711,
+      0,
+      0.70711
+    ],
+    "glbScale": 1,
+    "sha256": "96654f525971a45e6bd766268bbd9ed3b7d37d605b96526e860c32428f4818a9",
+    "c2paManifest": "/c2pa/lange-morning-class.c2pa.json",
+    "registration": {
+      "status": "pending",
+      "chains": [
+        "numbers",
+        "cardano"
+      ],
+      "txUrl": null,
+      "command": "starling file register --include media_type,author --on numbers bafkreiewmvhvewlrurpgxv3ge2f33hwtw7jx2yc3szjg5bqmgjbi6sayve"
+    }
+  },
+  {
+    "id": "lange-children",
+    "title": "Children Remaining After Hours",
+    "artist": "Dorothea Lange",
+    "date": "1942-06-16",
+    "medium": "Photograph (gelatin silver print)",
+    "source": "National Archives, WRA Central Photographic File, 210-G-C647",
+    "sourceUrl": "https://calisphere.org/item/ark:/13030/ft058002s1/",
+    "permaUrl": null,
+    "ipfsCid": "bafkreieuctgtnwfkile6movtv62sxgtbsbjbkc5abefm6h7334pu4br564",
+    "attestation": {
+      "claim": "WRA photograph by Dorothea Lange documenting evacuee children continuing their art work after hours at the Tanforan Art School, June 16, 1942.",
+      "curator": "Stanford EE292J Tanforan Team",
+      "date": "2026-06-01",
+      "signature": null
+    },
+    "provenanceGrade": "ground-truth",
+    "imagePath": "/artworks/lange_children_after_hours.jpg",
+    "width": 2,
+    "height": 1.6,
+    "wall": "right",
+    "position": [
+      9.7,
+      5.5,
+      48
+    ],
+    "rotation": [
+      0,
+      -1.5708,
+      0
+    ],
+    "glbPosition": [
+      3.7365,
+      1.8447,
+      5.7766
+    ],
+    "glbQuaternion": [
+      0,
+      -0.70711,
+      0,
+      0.70711
+    ],
+    "glbScale": 1,
+    "sha256": "9414cd36d8aa42c9e63ab3afb52b9a619052150ba0090acf1ffbdf1f4e063df7",
+    "c2paManifest": "/c2pa/lange-children.c2pa.json",
+    "registration": {
+      "status": "pending",
+      "chains": [
+        "numbers",
+        "cardano"
+      ],
+      "txUrl": null,
+      "command": "starling file register --include media_type,author --on numbers bafkreieuctgtnwfkile6movtv62sxgtbsbjbkc5abefm6h7334pu4br564"
+    }
+  },
+  {
+    "id": "placeholder-sumi-e",
+    "title": "Student Sumi-e Work (representative)",
+    "artist": "Unknown student, Tanforan Art School",
+    "date": "1942",
+    "medium": "Sumi ink on paper",
+    "source": "Representative sumi-e — \"Cicada on a Grapevine\" by Bokurin Guan (The Metropolitan Museum of Art, CC0); not a documented Tanforan work",
+    "sourceUrl": "https://www.metmuseum.org/art/collection/search/53219",
+    "permaUrl": null,
+    "ipfsCid": "bafkreiaiibv5fm2wzx2fsrhnpoyecqhpipziwwi52xhw3b2cn55uozik2i",
+    "attestation": {
+      "claim": "Placeholder representing the type of student sumi-e work produced at the Tanforan Art School. Not a documented specific work.",
+      "curator": "Stanford EE292J Tanforan Team",
+      "date": "2026-06-01",
+      "signature": null
+    },
+    "provenanceGrade": "synthetic",
+    "imagePath": "/artworks/placeholder_sumi_e.jpg",
+    "width": 1.5,
+    "height": 2,
+    "wall": "left",
+    "position": [
+      -9.7,
+      5.5,
+      48
+    ],
+    "rotation": [
+      0,
+      1.5708,
+      0
+    ],
+    "glbPosition": [
+      -5.107,
+      1.845,
+      4.177
+    ],
+    "glbQuaternion": [
+      0,
+      0.70711,
+      0,
+      0.70711
+    ],
+    "glbScale": 1,
+    "sha256": "08406bd2b356cdf45944ed7bb04140ef43f28b591dd5cf6d87426f7b47650ad2",
+    "c2paManifest": "/c2pa/placeholder-sumi-e.c2pa.json",
+    "registration": {
+      "status": "pending",
+      "chains": [
+        "numbers",
+        "cardano"
+      ],
+      "txUrl": null,
+      "command": "starling file register --include media_type,author --on numbers bafkreiaiibv5fm2wzx2fsrhnpoyecqhpipziwwi52xhw3b2cn55uozik2i"
+    }
+  }
+]

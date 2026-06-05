@@ -1,0 +1,46 @@
+{
+  "ta_url": "http://timestamp.digicert.com",
+  "claim_generator": "Starling Lab / EE292J — Tanforan Art School",
+  "assertions": [
+    {
+      "label": "c2pa.actions",
+      "data": {
+        "actions": [
+          {
+            "action": "c2pa.published"
+          }
+        ]
+      }
+    },
+    {
+      "label": "stds.schema-org.CreativeWork",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "CreativeWork",
+        "author": [
+          "Dorothea Lange"
+        ],
+        "name": "lange_morning_class.jpg",
+        "description": "WRA photograph by Dorothea Lange documenting the morning freehand brush class at the Tanforan Art School, June 16, 1942.",
+        "dateCreated": "1942-06-16",
+        "contentLocation": "Tanforan Assembly Center, San Bruno, CA"
+      }
+    },
+    {
+      "label": "org.starlinglab.integrity",
+      "data": {
+        "cid": "bafkreiewmvhvewlrurpgxv3ge2f33hwtw7jx2yc3szjg5bqmgjbi6sayve",
+        "sha256": "96654f525971a45e6bd766268bbd9ed3b7d37d605b96526e860c32428f4818a9",
+        "cidVersion": 1,
+        "codec": "raw",
+        "multihash": "sha2-256",
+        "source": "National Archives, WRA Central Photographic File, 210-G-C646",
+        "sourceUrl": "https://calisphere.org/item/ark:/13030/ft7w1007tq/",
+        "provenanceGrade": "ground-truth"
+      }
+    }
+  ],
+  "credentials": [
+    "2026-06-01"
+  ]
+}

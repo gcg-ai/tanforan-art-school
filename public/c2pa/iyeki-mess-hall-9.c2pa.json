@@ -1,0 +1,46 @@
+{
+  "ta_url": "http://timestamp.digicert.com",
+  "claim_generator": "Starling Lab / EE292J — Tanforan Art School",
+  "assertions": [
+    {
+      "label": "c2pa.actions",
+      "data": {
+        "actions": [
+          {
+            "action": "c2pa.published"
+          }
+        ]
+      }
+    },
+    {
+      "label": "stds.schema-org.CreativeWork",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "CreativeWork",
+        "author": [
+          "Kenneth Nobuji Iyeki"
+        ],
+        "name": "iyeki_mess_hall_9.jpg",
+        "description": "Pencil sketch of Tanforan Mess Hall #9 drawn by incarceree Kenneth Nobuji Iyeki.",
+        "dateCreated": "1942–1943",
+        "contentLocation": "Tanforan Assembly Center, San Bruno, CA"
+      }
+    },
+    {
+      "label": "org.starlinglab.integrity",
+      "data": {
+        "cid": "bafkreihktzbsw3mtxx5xmiaomclht6p6qokig57xmqj7e43qlxzcthuvgq",
+        "sha256": "ea9e432b6d93bdfb76200e609679f9fe83948377f76413f273705df2299e9534",
+        "cidVersion": 1,
+        "codec": "raw",
+        "multihash": "sha2-256",
+        "source": "Densho Digital Repository, Kenneth Nobuji Iyeki Collection (ddr-densho-392)",
+        "sourceUrl": "https://ddr.densho.org/ddr-densho-392-43/",
+        "provenanceGrade": "ground-truth"
+      }
+    }
+  ],
+  "credentials": [
+    "2026-06-01"
+  ]
+}

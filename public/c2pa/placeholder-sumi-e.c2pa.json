@@ -1,0 +1,46 @@
+{
+  "ta_url": "http://timestamp.digicert.com",
+  "claim_generator": "Starling Lab / EE292J — Tanforan Art School",
+  "assertions": [
+    {
+      "label": "c2pa.actions",
+      "data": {
+        "actions": [
+          {
+            "action": "c2pa.published"
+          }
+        ]
+      }
+    },
+    {
+      "label": "stds.schema-org.CreativeWork",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "CreativeWork",
+        "author": [
+          "Unknown student, Tanforan Art School"
+        ],
+        "name": "placeholder_sumi_e.jpg",
+        "description": "Placeholder representing the type of student sumi-e work produced at the Tanforan Art School. Not a documented specific work.",
+        "dateCreated": "1942",
+        "contentLocation": "Tanforan Assembly Center, San Bruno, CA"
+      }
+    },
+    {
+      "label": "org.starlinglab.integrity",
+      "data": {
+        "cid": "bafkreiaiibv5fm2wzx2fsrhnpoyecqhpipziwwi52xhw3b2cn55uozik2i",
+        "sha256": "08406bd2b356cdf45944ed7bb04140ef43f28b591dd5cf6d87426f7b47650ad2",
+        "cidVersion": 1,
+        "codec": "raw",
+        "multihash": "sha2-256",
+        "source": "Representative sumi-e — \"Cicada on a Grapevine\" by Bokurin Guan (The Metropolitan Museum of Art, CC0); not a documented Tanforan work",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/53219",
+        "provenanceGrade": "synthetic"
+      }
+    }
+  ],
+  "credentials": [
+    "2026-06-01"
+  ]
+}

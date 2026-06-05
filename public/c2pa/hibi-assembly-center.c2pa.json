@@ -1,0 +1,46 @@
+{
+  "ta_url": "http://timestamp.digicert.com",
+  "claim_generator": "Starling Lab / EE292J — Tanforan Art School",
+  "assertions": [
+    {
+      "label": "c2pa.actions",
+      "data": {
+        "actions": [
+          {
+            "action": "c2pa.published"
+          }
+        ]
+      }
+    },
+    {
+      "label": "stds.schema-org.CreativeWork",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "CreativeWork",
+        "author": [
+          "Hisako Hibi"
+        ],
+        "name": "hibi_assembly_center.jpg",
+        "description": "Depicts a panoramic view of the Tanforan Assembly Center painted by incarceree Hisako Hibi during her confinement in 1942.",
+        "dateCreated": "1942",
+        "contentLocation": "Tanforan Assembly Center, San Bruno, CA"
+      }
+    },
+    {
+      "label": "org.starlinglab.integrity",
+      "data": {
+        "cid": "bafkreifocmhri5urxkg24ihz64qg7kkdn324eoxkxkxs62acbyyaxfpwbq",
+        "sha256": "ae130f147691ba8dae20f9f7206fa9436ef5c23aeabaaf2f68020e300b95f60c",
+        "cidVersion": 1,
+        "codec": "raw",
+        "multihash": "sha2-256",
+        "source": "Japanese American National Museum, Hisako Hibi Collection",
+        "sourceUrl": "https://janm.emuseum.com/objects/62481/tanforan-assembly-center",
+        "provenanceGrade": "ground-truth"
+      }
+    }
+  ],
+  "credentials": [
+    "2026-06-01"
+  ]
+}
